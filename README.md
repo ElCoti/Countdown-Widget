@@ -3,7 +3,7 @@ Find out how many days are left until a certain date with the possibility of als
 
 # How to install
 1. Download Scriptable from the App Store.
-2. Download the Scriptable file from the [release page]([link](https://github.com/ElCoti/Countdown-Widget/blob/main/countdown.js)).
+2. Download the Scriptable file from the [release page](https://github.com/ElCoti/Countdown-Widget/blob/main/countdown.js).
 3. Once downloaded, click the Share button.
 4. Click on the Scriptable icone
 5. Click on "Add to My Scripts".
