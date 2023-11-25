@@ -1,5 +1,6 @@
 # Countdown Widget for iOS
 Find out how many days are left until a certain date with the possibility of also removing a day of the week.
+
 ![](https://github.com/ElCoti/Countdown-Widget/blob/96891b67cde6b7dcd6ea4344cd3d6d2ccba7a3aa/Mockup.png)
 
 # How to install
